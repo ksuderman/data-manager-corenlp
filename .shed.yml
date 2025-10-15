@@ -14,7 +14,7 @@ type: unrestricted
 categories:
   - Data Managers
   - Text Manipulation
-  - NLP
+  - Natural Language Processing
 auto_tool_repositories:
   name_template: "{{ tool_id }}"
   description_template: "{{ tool_name }}"
