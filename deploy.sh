@@ -1,4 +1,4 @@
-#!/usr/local/bin bash
+#!/usr/bin/env bash
 for v in .venv venv ~/.venv ; do
 	if [[ -d $v ]] && [[ -e $v/bin/activate ]] ; then
 		source $v/bin/activate
